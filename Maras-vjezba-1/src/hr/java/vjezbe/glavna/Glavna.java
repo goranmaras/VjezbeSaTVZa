@@ -19,9 +19,7 @@ public class Glavna {
 		
 		String sifra,ime,prezime,titula;
 		Profesor[] profesorpolje = new Profesor[2];
-		
-		String blabla;
-		String aaaa;
+
 		
 		
 		for (int i = 0; i < 2; i++) {
